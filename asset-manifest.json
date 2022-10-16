@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.623e3f74.css",
-    "main.js": "./static/js/main.57ec9355.js",
+    "main.css": "./static/css/main.7f775c7b.css",
+    "main.js": "./static/js/main.5a55eae8.js",
     "static/media/perfil.jpg": "./static/media/perfil.bcd48d2d0bfe2cbf1941.jpg",
     "static/media/react.png": "./static/media/react.494927ec934a5f707cc4.png",
     "static/media/email.png": "./static/media/email.600d574e0bacd94c6973.png",
+    "static/media/node.png": "./static/media/node.2b0688589f2299ec8903.png",
     "static/media/html.png": "./static/media/html.6e0a597cc615c5a9a91f.png",
     "static/media/javascript.png": "./static/media/javascript.7471f772cc937b449085.png",
     "static/media/linkedin.png": "./static/media/linkedin.ab7644f18965cdeea483.png",
     "static/media/bootstrap.png": "./static/media/bootstrap.3c4e1a5d3a149087b144.png",
     "static/media/css.png": "./static/media/css.bd164168f561ada695b8.png",
+    "static/media/oracle.jpg": "./static/media/oracle.9156326c725803e9b7ba.jpg",
+    "static/media/logo.JPG": "./static/media/logo.b77ded488d61b60ab81d.JPG",
     "index.html": "./index.html",
-    "main.623e3f74.css.map": "./static/css/main.623e3f74.css.map",
-    "main.57ec9355.js.map": "./static/js/main.57ec9355.js.map"
+    "main.7f775c7b.css.map": "./static/css/main.7f775c7b.css.map",
+    "main.5a55eae8.js.map": "./static/js/main.5a55eae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.623e3f74.css",
-    "static/js/main.57ec9355.js"
+    "static/css/main.7f775c7b.css",
+    "static/js/main.5a55eae8.js"
   ]
 }
